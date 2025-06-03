@@ -3,9 +3,9 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 
-        int edadPersona;                      // Edad de una persona
+        byte edadPersona;                      // Edad de una persona
         double precioProducto;                // Precio de un producto con decimales
-        int cantidadHijosFamilia;             // Cantidad de hijos de una familia
+        byte cantidadHijosFamilia;             // Cantidad de hijos de una familia
         double salarioTrabajador;             // Salario de un trabajador
         double alturaPersona;  ;                  // Altura de una persona en metros
         boolean interruptorEncendido;         // Interruptor encendido o apagado
